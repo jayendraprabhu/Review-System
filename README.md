@@ -1,2 +1,2 @@
 # Review-System
-Automated Restaurent Review system using facial expression
+Automated Restaurant Review system using facial expression
